@@ -1,0 +1,27 @@
+{
+  "name": "threejs-light-setups",
+  "version": "1.0.0",
+  "description": "Multiple simple light setups for ThreeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ianlatchmansingh/threejs-light-setups-package.git"
+  },
+  "keywords": [
+    "threejs",
+    "spatial",
+    "lighting",
+    "3D",
+    "WebGL",
+    "three"
+  ],
+  "author": "Ian Latchmansingh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ianlatchmansingh/threejs-light-setups-package/issues"
+  },
+  "homepage": "https://github.com/ianlatchmansingh/threejs-light-setups-package#readme"
+}
