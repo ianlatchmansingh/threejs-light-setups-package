@@ -1,6 +1,7 @@
 # threejs-light-setups
 
 ThreeJS Light Setups is a simple package intended for recreating array-based lighting with some nice parameters that simplify the setup and calculations. This is most useful for showing 3D products within the browser in even, symmetrical lighting conditions.
+![Demo GIF of rotating skull](https://raw.githubusercontent.com/ianlatchmansingh/threejs-light-setups-package/main/demo.gif)
 
 ## Dependencies
 
